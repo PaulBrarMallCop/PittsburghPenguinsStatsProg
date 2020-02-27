@@ -1,0 +1,40 @@
+C Sidney Crosby
+C Evgeni Malkin
+C Derick Brassard
+C Riley Sheahan
+LW Jake Guentzel
+LW Carl Hagelin
+LW Conor Sheary
+LW Tom Kuhnhackl
+RW Patric Hornqvist
+RW Phil Kessel
+RW Bryan Rust
+RW Zach Aston-Reese
+D Kris Letang
+D Olli Maatta 
+D Justin Schultz
+D Brian Dumoulin
+D Jamie Oleksiak
+D Ian Cole
+G Matt Murray
+G Tristan Jarry
+87 82 29 60 89 0 46
+71 78 42 56 98 16 87
+19 72 21 25 46 0 34
+15 81 11 21 32 4 8
+59 82 22 26 48 -9 42
+62 81 10 21 31 8 28
+43 79 18 12 30 2 10
+34 69 2 6 8 -6 6
+72 70 29 20 49 2 58
+81 82 34 58 92 -4 36
+17 69 13 25 38 11 26
+46 16 4 2 6 2 2
+58 79 9 42 51 -9 56
+3 82 7 22 29 -1 28
+4 63 4 23 27 22 14
+8 80 5 13 18 -5 30
+6 68 5 12 17 7 86
+28 67 5 15 20 14 76
+30 49 45 27 16 91 3
+35 26 23 14 6 91 3

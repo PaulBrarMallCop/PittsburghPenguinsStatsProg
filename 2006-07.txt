@@ -1,0 +1,40 @@
+C Sidney Crosby
+C Evgeni Malkin
+C Jordan Staal
+C Maxime Talbot
+LW Colby Armstrong
+LW Jarkko Ruutu
+LW Georges Laraque
+LW John LeClair
+RW Mark Recchi
+RW Michel Ouellet
+RW Chris Thorburn
+RW Ryan Malone
+D Sergei Gonchar
+D Ryan Whitney
+D Rob Scuderi
+D Josef Melichar
+D Brooks Orpik 
+D Alain Nasreddine
+G Marc-Andre Fleury
+G Jocelyn Thibault
+87 79 36 84 120 10 60
+71 78 33 52 85 2 80
+11 81 29 13 42 16 24
+25 75 13 11 24 -2 53
+20 80 12 22 34 2 67
+37 81 7 9 16 0 125
+27 73 5 19 24 4 70
+10 69 20 22 42 0 97
+8 82 24 44 68 1 62
+7 73 19 29 48 -3 30
+22 39 3 2 5 1 69
+12 64 16 15 31 4 71
+55 82 13 54 67 -5 72
+19 81 14 45 59 9 77
+5 78 1 10 11 3 28
+2 70 1 11 12 1 44
+44 70 0 6 6 4 82
+32 44 1 4 5 12 18
+29 67 65 40 16 91 3
+41 22 17 7 8 91 3
